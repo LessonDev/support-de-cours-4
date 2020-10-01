@@ -1,0 +1,33 @@
+/************* Cours *************/
+
+.border_class {
+    border-width: 2px;
+    border-style: solid ; /*dotted,  dashed,  double */
+    border-color: black;
+    border-radius: 5px ;
+}
+
+/** OR **/
+
+.border_class_une {
+    border: 2px solid black;
+    border-radius: 5px ;
+}
+
+
+.border_class_deux {
+    border-width: 3px 5px 7px 9px;
+    border-style: solid dotted  dashed  double;
+    border-color: black red green midnightblue ;
+    border-radius: 15px 7px 20px 0px ;
+}
+
+
+/************* Mise en forme *************/
+
+div {
+    width: 350px ;
+    height: 200px;
+    background-color: yellow;
+    padding: 5px;
+}

@@ -1,0 +1,33 @@
+/************* Cours *************/
+
+/* Utiliser les identifiants de couleurs prédéfinies */
+.predefined_color {
+	background-color: seagreen;
+}
+
+/* Utiliser le format RGB (Red/Green/Blue) */
+.rgb_color {
+	background-color: rgb(46, 139, 87);
+	/* background-color: rgba(46, 139, 87, 0.5); */
+}
+
+/* Utiliser le format Hexadécimale (Red/Green/Blue) */
+.hexadecimal_color{
+	background-color: #2e8b57;
+}
+
+/************* Mise en forme *************/
+
+.predefined_color, .rgb_color, .hexadecimal_color {
+	width: 500px;
+	height: 100px;
+	text-align: center;
+	display: table-cell;
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+    border: 3px dashed black;
+    vertical-align: middle;
+}
+
+

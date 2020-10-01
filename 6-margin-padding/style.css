@@ -1,0 +1,50 @@
+/************* Cours *************/
+.btn_oui {
+    padding: .375em .75em .375em .75em;
+    margin: 10px 15px 10px 0px;
+    background-color: #218838;
+}
+
+.btn_non {
+    padding: .375em .75em .375em .75em;
+    margin: 10px 0px 10px 15px;
+    background-color: #DC3545;
+}
+
+/************* Mise en forme *************/
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.button {
+    display : inline-block ;
+    text-decoration: none;
+    color: #fff;
+    border-color: #007bff;
+    font-size: 50px;
+    border-radius: 3px;
+    font-family: "Nunito";
+    font-weight:bold;
+}
+
+/************* Cours *************/
+.btn_auto {
+    display : block ;
+    padding: .375em .75em .375em .75em;
+    background-color: #138496;
+    width: 200px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+/************* Mise en forme *************/
+a:hover {
+    opacity: 0.5;
+}
+
+
+
+

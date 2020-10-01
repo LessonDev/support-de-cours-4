@@ -1,0 +1,27 @@
+/*
+html {
+font-size: 16px;
+}
+*/
+/*
+.container {
+    font-size: 18px;
+}
+*/
+
+.para1 {
+    color: red;
+    font-size: 18px;
+    margin-bottom: 1rem;
+}
+
+.para2 {
+    color: blue;
+    font-size: 16px;
+    margin-bottom: 1rem;
+}
+
+button {
+    font-size: 1rem;
+    padding: 0.4em 0.5em  ;
+}

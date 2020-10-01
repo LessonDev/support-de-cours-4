@@ -1,0 +1,25 @@
+p#left {
+	text-align: left;
+}
+
+p#right {
+	text-align: right;
+}
+
+p#center {
+	text-align: center;
+}
+
+p#justify {
+	text-align: justify;
+}
+
+.start_exemple p {
+	text-align: start;
+	unicode-bidi: plaintext;
+}
+
+.end_exemple p {
+	text-align: end;
+	unicode-bidi: plaintext;
+}
